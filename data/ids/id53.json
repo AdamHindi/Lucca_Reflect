@@ -1,0 +1,294 @@
+{
+    "header": {
+        "generated": "2024-09-27T16:37:36.6719893",
+        "principal": "Reflect 6e51",
+        "processId": 1484
+    },
+    "data": {
+        "attributes": {},
+        "applicationData": {
+            "manager2Id": null,
+            "manager2": null,
+            "profile_figgo": {
+                "id": 13,
+                "name": "30 vacaciones pagadas (mensual) + 12 compensatorios",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/leaveprofiles/13"
+            },
+            "profile_cleemy_6": {
+                "id": 3,
+                "name": "Lucca ES",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/expenseconfigprofileboes/3"
+            },
+            "fullTimeEquivalent": {
+                "value": "151.67",
+                "link": null
+            },
+            "theoreticalRemuneration": {
+                "value": "\u20ac38,799",
+                "link": {
+                    "url": "https://reflect2-sandbox.ilucca-demo.net/popleerem/remunerations#/53",
+                    "text": "Go to Pagga Compensation"
+                }
+            },
+            "lastAnnualReviewDate": {
+                "value": "2022-01-07T18:57:59.0787942",
+                "link": null
+            },
+            "lastProfessionalReviewDate": {
+                "value": null,
+                "link": null
+            },
+            "lastFixedWorkingDaysReviewDate": {
+                "value": null,
+                "link": null
+            }
+        },
+        "extendedData": {},
+        "id": 53,
+        "lastName": "Mart\u00ednez",
+        "firstName": "Pablo",
+        "name": "Pablo Mart\u00ednez",
+        "displayName": "Mart\u00ednez Pablo",
+        "login": "pmartinez",
+        "mail": "pmartinez@example.es",
+        "dtContractStart": "2004-06-19T00:00:00",
+        "dtContractEnd": null,
+        "employeeNumber": "ES0006",
+        "cspID": 17,
+        "csp": {
+            "id": 17,
+            "name": "Cuadros superiores",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/socioprofessionalgroups/17"
+        },
+        "nationalityId": "ES",
+        "nationality": {
+            "id": "ES",
+            "name": "Spain",
+            "currencyId": "EUR"
+        },
+        "siteId": null,
+        "site": null,
+        "seniorityDate": "2015-01-01T00:00:00",
+        "birthDate": "1984-05-15T00:00:00",
+        "unitSellPrice": null,
+        "insuranceNumber": "18 79241156 97",
+        "departmentID": 24,
+        "department": {
+            "id": 24,
+            "name": "Marketing",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/24"
+        },
+        "managerID": 49,
+        "manager": {
+            "id": 49,
+            "name": "Carmen Fern\u00e1ndez",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/users/49"
+        },
+        "currentDelegateeId": null,
+        "currentDelegatee": null,
+        "legalEntityID": 3,
+        "legalEntity": {
+            "id": 3,
+            "name": "Lucca Espa\u00f1a",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/legalentities/3"
+        },
+        "cultureID": 1034,
+        "culture": {
+            "id": 1034,
+            "code": "es-ES",
+            "name": "Spanish (Spain, Sort Order=tradnl)"
+        },
+        "rolePrincipalId": 4,
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "calendarId": 53,
+        "calendar": {
+            "id": 53,
+            "name": "Spain - Catalonia",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/admin/calendars/api/calendars/53"
+        },
+        "userWorkCycles": [
+            {
+                "id": 58,
+                "name": null,
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/userworkcycles/58"
+            }
+        ],
+        "jobQualificationId": 9,
+        "jobQualification": {
+            "id": 9,
+            "name": "Designer Confirmed",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/jobqualifications/9"
+        },
+        "createdOn": "2020-01-08T22:07:20.623",
+        "createdAt": "2020-01-08T22:07:20.623",
+        "modifiedOn": "2024-07-11T14:56:02.733",
+        "modifiedAt": "2024-07-11T14:56:02.733",
+        "habilitedRoles": [
+            {
+                "id": 43,
+                "name": "Saisie des temps",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/43"
+            }
+        ],
+        "externalId": null,
+        "directLine": null,
+        "professionalMobile": "600 798 680",
+        "personalMobile": "600 798 680",
+        "personalEmail": "perso-pablo@example.fr",
+        "address": "Calle Gran V\u00eda, 190 LOC 28013 Madrid",
+        "civilTitle": "Mr",
+        "personalAccount": "421003",
+        "gender": "Male",
+        "quote": null,
+        "frenchCarTaxHorsePower": null,
+        "frenchMotocyclesTaxHorsePower": null,
+        "corporateCard": null,
+        "personalCard": null,
+        "rib": null,
+        "bic": "CESCESBBXZD",
+        "iban": "ES7859129857747141730597",
+        "bankName": null,
+        "allowsElectronicPayslip": true,
+        "picture": {
+            "id": "e9fc338a-00e8-4d72-aa36-4f4862fc6778",
+            "name": "Pablo Martinez.JPG",
+            "extension": null,
+            "mimeType": null,
+            "href": "https://reflect2-sandbox.ilucca-demo.net/directory/api/employees/53/picture?a=0",
+            "url": null
+        },
+        "pictureId": "e9fc338a-00e8-4d72-aa36-4f4862fc6778",
+        "jobTitle": "Especialista Marketing Digital",
+        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/users/53",
+        "authorizedOperations": [
+            {
+                "id": 35,
+                "name": null,
+                "label": "View the Lucca employee data",
+                "description": null,
+                "scopes": [
+                    {
+                        "description": "All departments",
+                        "value": 0,
+                        "id": 0,
+                        "code": "AllDepartments",
+                        "name": "All departments"
+                    },
+                    {
+                        "description": "All departments from level 1",
+                        "value": 1,
+                        "id": 1,
+                        "code": "DepartementLevel1",
+                        "name": "Departments from level 1"
+                    },
+                    {
+                        "description": "All departments from level 2",
+                        "value": 2,
+                        "id": 2,
+                        "code": "DepartementLevel2",
+                        "name": "Departments from level 2"
+                    },
+                    {
+                        "description": "All departments from level 3",
+                        "value": 3,
+                        "id": 3,
+                        "code": "DepartementLevel3",
+                        "name": "Departments from level 3"
+                    },
+                    {
+                        "description": "All departments from level 4",
+                        "value": 4,
+                        "id": 4,
+                        "code": "DepartementLevel4",
+                        "name": "Departments from level 4"
+                    },
+                    {
+                        "description": "My department and subs",
+                        "value": 10,
+                        "id": 10,
+                        "code": "DepartmentAndSubs",
+                        "name": "Departments and subs"
+                    },
+                    {
+                        "description": "My department only",
+                        "value": 11,
+                        "id": 11,
+                        "code": "DepartmentOnly",
+                        "name": "Department only"
+                    },
+                    {
+                        "description": "",
+                        "value": 20,
+                        "id": 20,
+                        "code": "SpecificDepartment",
+                        "name": "Specific department(s)"
+                    },
+                    {
+                        "description": "",
+                        "value": 21,
+                        "id": 21,
+                        "code": "SpecificDepartmentAndSubs",
+                        "name": "Specific department(s) and subs"
+                    },
+                    {
+                        "description": "My manager",
+                        "value": 13,
+                        "id": 13,
+                        "code": "Manager",
+                        "name": "Manager"
+                    },
+                    {
+                        "description": "Myself",
+                        "value": 14,
+                        "id": 14,
+                        "code": "User",
+                        "name": "User"
+                    },
+                    {
+                        "description": "My supervised employees",
+                        "value": 12,
+                        "id": 12,
+                        "code": "Collaborators",
+                        "name": "Supervised employees"
+                    },
+                    {
+                        "description": "Supervised employees (up to n-2)",
+                        "value": 23,
+                        "id": 23,
+                        "code": "CollaboratorsLevel2",
+                        "name": "Supervised employees (up to n-2)"
+                    },
+                    {
+                        "description": "Supervised employees (up to n-3)",
+                        "value": 24,
+                        "id": 24,
+                        "code": "CollaboratorsLevel3",
+                        "name": "Supervised employees (up to n-3)"
+                    },
+                    {
+                        "description": "People having the same manager",
+                        "value": 16,
+                        "id": 16,
+                        "code": "Peers",
+                        "name": "People having the same manager"
+                    },
+                    {
+                        "description": "",
+                        "value": 22,
+                        "id": 22,
+                        "code": "SpecificUser",
+                        "name": "Specific user(s)"
+                    }
+                ],
+                "isScopeSpecific": true,
+                "isBusinessItemSpecific": false,
+                "isAdmin": false
+            }
+        ]
+    },
+    "metadata": null
+}

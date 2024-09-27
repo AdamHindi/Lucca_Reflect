@@ -1,0 +1,284 @@
+{
+    "header": {
+        "generated": "2024-09-27T16:38:42.4031989",
+        "principal": "Reflect 6e51",
+        "processId": 7224
+    },
+    "data": {
+        "attributes": {},
+        "applicationData": {
+            "manager2Id": null,
+            "manager2": null,
+            "profile_figgo": {
+                "id": 22,
+                "name": "Full Time (25)",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/leaveprofiles/22"
+            },
+            "profile_cleemy_6": {
+                "id": 0,
+                "name": "Generic profile",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/expenseconfigprofileboes/0"
+            },
+            "fullTimeEquivalent": {
+                "value": "151.67",
+                "link": null
+            },
+            "theoreticalRemuneration": {
+                "value": "CHF0",
+                "link": {
+                    "url": "https://reflect2-sandbox.ilucca-demo.net/popleerem/remunerations#/109",
+                    "text": "Go to Pagga Compensation"
+                }
+            },
+            "lastAnnualReviewDate": {
+                "value": null,
+                "link": null
+            },
+            "lastProfessionalReviewDate": {
+                "value": null,
+                "link": null
+            },
+            "lastFixedWorkingDaysReviewDate": {
+                "value": null,
+                "link": null
+            }
+        },
+        "extendedData": {},
+        "id": 109,
+        "lastName": "Merat",
+        "firstName": "Nicolas",
+        "name": "Nicolas Merat",
+        "displayName": "Merat Nicolas",
+        "login": "nmerat",
+        "mail": "nmerat@example.org",
+        "dtContractStart": "2011-07-01T00:00:00",
+        "dtContractEnd": null,
+        "employeeNumber": "CH1",
+        "cspID": null,
+        "csp": null,
+        "nationalityId": "CH",
+        "nationality": {
+            "id": "CH",
+            "name": "Switzerland",
+            "currencyId": "CHF"
+        },
+        "siteId": null,
+        "site": null,
+        "seniorityDate": null,
+        "birthDate": "1982-04-11T00:00:00",
+        "unitSellPrice": null,
+        "insuranceNumber": "756.4321.5678.82",
+        "departmentID": 30,
+        "department": {
+            "id": 30,
+            "name": "General Management",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/30"
+        },
+        "managerID": 100,
+        "manager": {
+            "id": 100,
+            "name": "Nathalie Camusot",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/users/100"
+        },
+        "currentDelegateeId": null,
+        "currentDelegatee": null,
+        "legalEntityID": 6,
+        "legalEntity": {
+            "id": 6,
+            "name": "Gen\u00e8ve",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/legalentities/6"
+        },
+        "cultureID": 4108,
+        "culture": {
+            "id": 4108,
+            "code": "fr-CH",
+            "name": "fran\u00e7ais (Suisse)"
+        },
+        "rolePrincipalId": 47,
+        "rolePrincipal": {
+            "id": 47,
+            "name": "Administrateur CH",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/47"
+        },
+        "calendarId": 59,
+        "calendar": {
+            "id": 59,
+            "name": "Switzerland - Geneva",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/admin/calendars/api/calendars/59"
+        },
+        "userWorkCycles": [
+            {
+                "id": 173,
+                "name": null,
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/userworkcycles/173"
+            }
+        ],
+        "jobQualificationId": 18,
+        "jobQualification": {
+            "id": 18,
+            "name": "Chief Operations Officer",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/jobqualifications/18"
+        },
+        "createdOn": "2023-07-25T12:01:05.267",
+        "createdAt": "2023-07-25T12:01:05.267",
+        "modifiedOn": "2023-08-30T16:27:15.833",
+        "modifiedAt": "2023-08-30T16:27:15.833",
+        "habilitedRoles": [],
+        "externalId": null,
+        "directLine": null,
+        "professionalMobile": null,
+        "personalMobile": "+41 22 596 74 71",
+        "personalEmail": "nmerat@luccasoftware.ch",
+        "address": "Chemin du Pavillon 2",
+        "civilTitle": "Mr",
+        "personalAccount": null,
+        "gender": "Male",
+        "quote": null,
+        "frenchCarTaxHorsePower": null,
+        "frenchMotocyclesTaxHorsePower": null,
+        "corporateCard": null,
+        "personalCard": null,
+        "rib": null,
+        "bic": "UBSWCHZH80A",
+        "iban": "CH220024024010372440D",
+        "bankName": "UBS Switzerland AG",
+        "allowsElectronicPayslip": true,
+        "picture": {
+            "id": "a2736e39-7b8d-4740-8a3e-709e7a330edc",
+            "name": "certification employe (1).jpg",
+            "extension": null,
+            "mimeType": null,
+            "href": "https://reflect2-sandbox.ilucca-demo.net/directory/api/employees/109/picture?a=0",
+            "url": null
+        },
+        "pictureId": "a2736e39-7b8d-4740-8a3e-709e7a330edc",
+        "jobTitle": "General Manager",
+        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/users/109",
+        "authorizedOperations": [
+            {
+                "id": 35,
+                "name": null,
+                "label": "View the Lucca employee data",
+                "description": null,
+                "scopes": [
+                    {
+                        "description": "All departments",
+                        "value": 0,
+                        "id": 0,
+                        "code": "AllDepartments",
+                        "name": "All departments"
+                    },
+                    {
+                        "description": "All departments from level 1",
+                        "value": 1,
+                        "id": 1,
+                        "code": "DepartementLevel1",
+                        "name": "Departments from level 1"
+                    },
+                    {
+                        "description": "All departments from level 2",
+                        "value": 2,
+                        "id": 2,
+                        "code": "DepartementLevel2",
+                        "name": "Departments from level 2"
+                    },
+                    {
+                        "description": "All departments from level 3",
+                        "value": 3,
+                        "id": 3,
+                        "code": "DepartementLevel3",
+                        "name": "Departments from level 3"
+                    },
+                    {
+                        "description": "All departments from level 4",
+                        "value": 4,
+                        "id": 4,
+                        "code": "DepartementLevel4",
+                        "name": "Departments from level 4"
+                    },
+                    {
+                        "description": "My department and subs",
+                        "value": 10,
+                        "id": 10,
+                        "code": "DepartmentAndSubs",
+                        "name": "Departments and subs"
+                    },
+                    {
+                        "description": "My department only",
+                        "value": 11,
+                        "id": 11,
+                        "code": "DepartmentOnly",
+                        "name": "Department only"
+                    },
+                    {
+                        "description": "",
+                        "value": 20,
+                        "id": 20,
+                        "code": "SpecificDepartment",
+                        "name": "Specific department(s)"
+                    },
+                    {
+                        "description": "",
+                        "value": 21,
+                        "id": 21,
+                        "code": "SpecificDepartmentAndSubs",
+                        "name": "Specific department(s) and subs"
+                    },
+                    {
+                        "description": "My manager",
+                        "value": 13,
+                        "id": 13,
+                        "code": "Manager",
+                        "name": "Manager"
+                    },
+                    {
+                        "description": "Myself",
+                        "value": 14,
+                        "id": 14,
+                        "code": "User",
+                        "name": "User"
+                    },
+                    {
+                        "description": "My supervised employees",
+                        "value": 12,
+                        "id": 12,
+                        "code": "Collaborators",
+                        "name": "Supervised employees"
+                    },
+                    {
+                        "description": "Supervised employees (up to n-2)",
+                        "value": 23,
+                        "id": 23,
+                        "code": "CollaboratorsLevel2",
+                        "name": "Supervised employees (up to n-2)"
+                    },
+                    {
+                        "description": "Supervised employees (up to n-3)",
+                        "value": 24,
+                        "id": 24,
+                        "code": "CollaboratorsLevel3",
+                        "name": "Supervised employees (up to n-3)"
+                    },
+                    {
+                        "description": "People having the same manager",
+                        "value": 16,
+                        "id": 16,
+                        "code": "Peers",
+                        "name": "People having the same manager"
+                    },
+                    {
+                        "description": "",
+                        "value": 22,
+                        "id": 22,
+                        "code": "SpecificUser",
+                        "name": "Specific user(s)"
+                    }
+                ],
+                "isScopeSpecific": true,
+                "isBusinessItemSpecific": false,
+                "isAdmin": false
+            }
+        ]
+    },
+    "metadata": null
+}
