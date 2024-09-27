@@ -1,5 +1,12 @@
 # Solutions Engineer - Coding Challenge
 
+## Solution
+
+Ma solution utilise un seul fichier python, avec une phase d'initialisation et ensuite de récupération des données générale.
+- Implémentation d'une requête générale qui imite un peu SQL
+- Implémentation de requêtes asynchrones afin d'optimiser la vitesse de récupération (surtout dans un vrai contexte sans limite aussi basse de 50/min)
+- Implémentation d'un timeout quand un maximum de requêtes est atteint
+
 ## Contexte
 
 Afin de garantir des données à jour dans les dashboards de la solution Reflect, l'équipe Solutions & Data Engineer a développé une architecture permettant de collecter les données de sources externes et de les intégrer dans le data warehouse de Reflect ([BigQuery](https://cloud.google.com/bigquery?hl=en)).
