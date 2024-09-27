@@ -1,0 +1,103 @@
+|6| |Alibert| |Chloe| |Female| |FR| |427 rue Daguerre, 75014 Paris| |Lucca FR| |SAV| |Technicienne| |2001-09-21| |None|
+|7| |Archer| |Marie-Françoise| |Female| |FR| |24 avenue Mozart, 75016 Paris| |Lucca FR| |Consulting| |Technicienne| |2001-10-08| |None|
+|8| |Bart| |Maurice| |Male| |FR| |24 rue Martin Bernard, 75013 Paris| |Lucca FR| |Comptabilité / Finances| |Comptable| |2001-10-06| |None|
+|9| |Beaulinette| |Antoine| |Male| |FR| |23 rue des Blancs Manteaux, 75004 Paris| |Lucca FR| |Comptabilité / Finances| |Directeur Administratif et Financier| |2001-09-20| |None|
+|11| |Berry| |Jessica| |Female| |GB| |65, Rue Victor Hugo, 75001 Paris| |Lucca UK| |Sales| |Business Developer| |2020-01-02| |None|
+|12| |Bouchard| |Maurice| |Male| |FR| |22 rue de la Folie Méricourt, 75011 Paris| |Lucca FR| |Secrétariat| |Assistant de Direction| |2001-10-04| |None|
+|13| |Bouquineau| |Ines| |Female| |FR| |Chemin de la montée| |Lucca FR| |Secrétariat| |Secrétaire| |2001-09-23| |None|
+|15| |Bragoulet| |Marie| |Female| |FR| |2 Place de la République, 92100 Colombes| |Lucca FR| |Consulting| |Responsable R&D| |2001-10-03| |None|
+|16| |Bresnier| |Valentin| |Male| |FR| |27 rue du Champ de l'alouette| |Lucca FR| |Consulting| |Ingénieur R&D| |2023-05-10| |None|
+|17| |Brown| |Chloe| |Female| |US| |Chemin des écureuil| |Lucca UK| |Help desk| |Service Desk Technician| |2021-12-14| |None|
+|18| |Carter| |John| |Male| |GB| |23 Piccadilly street Oxford| |Lucca UK| |Sales| |Business Developer| |2007-01-01| |None|
+|19| |Clisson| |Brigitte| |Female| |FR| |37 Rue Traversières| |Lucca FR| |Consulting| |Responsable UX| |2007-02-07| |None|
+|20| |Constant| |Michel| |Male| |FR| |120 Rue du Bonheur| |Lucca FR| |Direction commerciale| |Directeur Commercial| |2013-03-02| |None|
+|21| |Cox| |Adam| |Male| |FR| |1 port Street| |Lucca UK| |Sales| |Business Developer| |2010-08-06| |None|
+|22| |Cretault| |Jacques| |Male| |FR| |7 rue de la Glacière, 75013 Paris| |Lucca FR| |Production| |Technicien| |2007-08-01| |None|
+|23| |Curtis| |Katie| |Female| |FR| |7 Rue de la Grande Allée| |Lucca UK| |Help desk| |Technician| |2023-09-11| |None|
+|25| |Doherty| |Alexander| |Male| |FR| |24 rue du Champ de l'alouette| |Lucca UK| |Sales| |Sales Director - UK| |2004-05-04| |None|
+|26| |Douglas| |Rebecca| |Female| |GB| |28 rue du Champ de l'alouette| |Lucca UK| |Help desk| |Head of Help Desk| |2006-09-18| |None|
+|27| |Dupont| |Jean| |Male| |FR| |5 rue de la Glacière| |Lucca FR| |Administration| |Assistant administratif| |2006-03-09| |None|
+|28| |Epineau| |Cécile| |Female| |FR| |7 rue Oberkampf| |Lucca FR| |Consulting| |Ingénieure R&D| |2009-01-01| |None|
+|29| |Estienne| |Denis| |Male| |FR| |17 rue des Pyramides| |Lucca FR| |Direction commerciale| |Business Developer| |2011-01-01| |None|
+|30| |Evans| |Lilly| |Female| |GB| |42 Crown Street| |Lucca UK| |Sales| |Business Developer| |2021-12-14| |None|
+|31| |Fromiau| |Nicolas| |Male| |FR| |26 rue du Champ de Ménilmontant| |Lucca FR| |Direction commerciale| |Business Developer| |2000-11-06| |None|
+|32| |Geste| |Florence| |Female| |CH| |Avenue de Rhodanie 2| |Lucca FR| |Direction commerciale| |Business Developer| |2007-06-25| |None|
+|33| |Gouache| |Antonin| |Male| |FR| |23 Rue des Maraîchers| |Lucca FR| |Direction commerciale| |Business Developer| |2004-10-04| |None|
+|35| |Hernandez| |Daniel| |Male| |FR| |24 rue du Champ de l'alouette| |Lucca España| |Administration| |DRH| |2023-05-10| |None|
+|36| |Heulin| |Celine| |Female| |FR| |3 rue de Rennes| |Lucca FR| |Production| |Agent de production| |2006-04-03| |None|
+|39| |Marceau| |Anaïs| |Female| || |45, Rue du Platane| |Lucca FR| |Administration| || |2023-09-11| |None|
+|40| |Pascal| |Gregory| |Male| || |367, rue de Vaugirard| |Lucca FR| |SAV| || |2023-09-25| |None|
+|41| |Pichou| |Olivier| |Male| || |12 Rue des Moineaux| |Lucca FR| |Consulting| || |2023-09-18| |None|
+|42| |Recoquillon| |Jérôme| |Male| |FR| |22 Avenue d'Italie| |Lucca FR| |Administration| || |2024-06-01| |None|
+|44| |Vigneau| |Alexandre| |Male| || |7 rue du Renard| |Lucca FR| |SAV| || |2017-09-11| |None|
+|45| |Flantier| |Noël| |Undefined| |FR| |39 rue de Tolbiac| |Lucca FR| |Consulting| |Ingénieur R&D| |2016-01-04| |None|
+|46| |Bouvet| |Augustin| |Undefined| |FR| |24 rue Olier, 75015 Paris| |Lucca FR| |Consulting| |Ingénieur R&D| |2016-01-04| |None|
+|47| |Camus| |Pierre| |Undefined| || |41 Avenue Tolbiac| |Lucca FR| |Production| || |2023-09-25| |None|
+|48| |García| |Maria| |Female| || |Calle Gran Vía, 21 LOC 28013 Madrid| |Lucca España| |Gestión| || |2009-08-12| |None|
+|49| |Fernández| |Carmen| |Female| || |Calle Gran Vía, 20 LOC 28013 Madrid| |Lucca España| |Marketing| |Asistente de marketing| |2015-02-23| |None|
+|50| |González| |José| |Male| || |Calle Gran Vía, 190 LOC 28013 Madrid| |Lucca España| |Marketing| || |2012-06-04| |None|
+|52| |López| |Paula| |Female| || |Calle Gran Vía, 10 LOC 28013 Madrid| |Lucca España| |Marketing| || |2014-11-15| |None|
+|53| |Martínez| |Pablo| |Male| |ES| |Calle Gran Vía, 190 LOC 28013 Madrid| |Lucca España| |Marketing| |Especialista Marketing Digital| |2004-06-19| |None|
+|54| |Sánchez| |Alejandro| |Male| || |Calle Gran Vía, 18 LOC 28013 Madrid| |Lucca España| |Prospección y Comercial| || |2004-08-25| |None|
+|55| |Pérez| |Sofia| |Female| || |Calle Gran Vía, 200 LOC 28013 Madrid| |Lucca España| |Producción| || |2004-10-17| |None|
+|56| |Martín| |Dolores| |Female| || |Calle Gran Vía, 30 LOC 28013 Madrid| |Lucca España| |Contabilidad| || |2015-05-27| |None|
+|57| |Gómez| |Antonio| |Male| |AD| |Calle Princesa, 58 PPAL 28008 Madrid| |Lucca España| |Dirección general| |Director general| |2015-07-22| |None|
+|58| |Ruiz| |Francisco| |Male| || |Calle Princesa, 70 PPAL 28008 Madrid| |Lucca España| |Gestión| || |2012-04-06| |None|
+|59| |Serrano| |Magdalena| |Female| || |Calle Princesa, 12 PPAL 28008 Madrid| |Lucca España| |Contabilidad| || |2012-10-16| |None|
+|60| |Delgado| |Juan| |Male| || |Calle Antonio Gaudi 28008 Barcelona| |Lucca España| |SPV| || |2012-09-01| |None|
+|61| |Iglesias| |Ramon| |Male| || |Quero, 7 LOC 28024 Madrid| |Lucca España| |Dirección comercial| |Comercial| |2018-12-03| |None|
+|62| |Cruz| |Isabel| |Female| || |Quero, 9 LOC 28024 Madrid| |Lucca España| |Prospección y Comercial| || |2009-01-10| |None|
+|63| |Dominiguez| |Catalina| |Female| || |Quero, 10 LOC 28024 Madrid| |Lucca España| |Producción| || |2009-03-04| |None|
+|64| |Hernandez| |Renata| |Female| || |Quero, 100 LOC 28024 Madrid| |Lucca España| |I+D| || |2015-03-13| |None|
+|65| |Ramirez| |Antonella| |Female| || |Quero,138 LOC 28024 Madrid| |Lucca España| |Contabilidad| || |2015-02-20| |None|
+|66| |Suarez| |Gabriela| |Female| || |Bravo Murillo, 119 BAJO 28020 Madrid| |Lucca España| |Dirección general| || |2016-04-28| |None|
+|67| |Velazquez| |Victoria| |Female| || |Bravo Murillo, 11 BAJO 28020 Madrid| |Lucca España| |Gestión| || |2016-09-11| |None|
+|68| |Velez| |Joaquín| |Male| || |Bravo Murillo, 120 BAJO 28020 Madrid| |Lucca España| |SPV| || |2016-10-14| |None|
+|70| |Barbero| |Sara| |Female| || |Bravo Murillo, 300 BAJO 28020 Madrid| |Lucca España| |Dirección comercial| || |2005-05-05| |None|
+|71| |Cabrero| |Lucia| |Female| || || |Lucca España| |Prospección y Comercial| || |2005-02-07| |None|
+|73| |Cavallero| |Lucas| |Male| || || |Lucca España| |I+D| || |2006-03-18| |None|
+|74| |Corredor| |Hugo| |Male| || || |Lucca España| |Prospección y Comercial| || |2006-09-24| |None|
+|75| |Hidalgo| |Martín| |Male| || || |Lucca España| |Producción| || |2007-01-25| |None|
+|76| |Marin| |Daniel| |Male| || || |Lucca España| |Dirección comercial| || |2007-03-26| |None|
+|77| |Herrera| |Camilla| |Female| || || |Lucca España| |Prospección y Comercial| || |2008-10-29| |None|
+|78| |Marques| |Valentina| |Female| || || |Lucca España| |Prospección y Comercial| || |2008-04-30| |None|
+|79| |Molinero| |Valeria| |Female| || || |Lucca España| |Producción| || |2010-05-03| |None|
+|80| |Romero| |Mariana| |Female| || || |Lucca España| |Producción| || |2011-09-12| |None|
+|81| |Torrero| |Santiago| |Male| || || |Lucca España| |Dirección general| || |2013-09-15| |None|
+|82| |Zapatero| |Sebastián| |Male| || || |Lucca España| |Marketing| || |2013-01-21| |None|
+|83| |Cano| |Matías| |Male| || || |Lucca España| |Marketing| || |2014-04-10| |None|
+|84| |Cortes| |Mateo| |Male| || || |Lucca España| |Marketing| || |2016-11-02| |None|
+|85| |Delgado| |Nicolás| |Male| || || |Lucca España| |Gestión| || |2016-09-05| |None|
+|87| |Orejon| |Samuel| |Male| || || |Lucca España| |Producción| || |2016-03-18| |None|
+|88| |Bianco| |Juan| |Male| || |5 Las Ramblas| |Lucca España| |I+D| || |2023-09-20| |None|
+|89| |Bateau| |Julie| |Undefined| || || |Lucca FR| |Secrétariat| || |2023-10-02| |2050-03-31|
+|90| |Girard| |Hélène| |Undefined| || || |Lucca FR| |Comptabilité / Finances| || |2022-01-17| |None|
+|91| |Fromiau| |Nicolas| |Undefined| || || |Lucca FR| |Lucca France| || |2022-04-01| |None|
+|92| |Evans| |Lilly| |Undefined| || |18 rue Copernic| |Lucca UK| |Lucca UK| || |2022-07-01| |None|
+|93| |García| |Maria| |Undefined| || || |Lucca España| |Lucca Espana| || |2022-11-01| |None|
+|94| |Aiglemont| |Jean| |Undefined| || || |Genève| |General Management| || |2006-03-09| |None|
+|95| |Arthez| |Denis| |Undefined| || || |Genève| |Customer Success| || |2011-01-01| |None|
+|96| |Augsberger| |Natalie| |Undefined| || || |Zürich| |General Management| || |2005-02-07| |None|
+|97| |Baasch| |Milo| |Undefined| || || |Zürich| |Sales & Marketing| || |2007-03-26| |None|
+|98| |Barbet| |Antoine| |Undefined| || || |Genève| |Sales & Marketing| || |2001-09-20| |None|
+|99| |Barjeton| |Hélène| |Undefined| || || |Genève| |Sales & Marketing| || |2022-01-17| |None|
+|100| |Camusot| |Nathalie| |Undefined| || || |Genève| |Sales & Marketing| || |2001-09-23| |None|
+|101| |Firmiani| |Mateo| |Undefined| || || |Zürich| |IT Support| || |2016-11-02| |None|
+|102| |Cruchot| |Antonin| |Undefined| || || |Genève| |IT Support| || |2004-10-04| |None|
+|103| |Desmarets| |Nicolas| |Undefined| || || |Genève| |Customer Success| || |2000-11-06| |None|
+|104| |Graf| |Isabel| |Undefined| || || |Zürich| |IT Support| || |2009-01-10| |None|
+|105| |Hartl| |Ava| |Undefined| || || |Zürich| |General Management| || |2015-02-23| |None|
+|106| |Hössler| |Tim| |Undefined| || || |Zürich| |Customer Success| || |2014-04-10| |None|
+|107| |Krist| |Andrej| |Undefined| || || |Zürich| |IT Support| || |2004-08-25| |None|
+|108| |Leistner| |Gabriel| |Undefined| || || |Zürich| |Sales & Marketing| || |2012-06-04| |None|
+|109| |Merat| |Nicolas| |Male| |CH| |Chemin du Pavillon 2| |Genève| |General Management| |General Manager| |2011-07-01| |None|
+|110| |Pilc| |Thomas| |Undefined| || || |Zürich| |Customer Success| || |2013-01-21| |None|
+|111| |Poiret| |Julie| |Undefined| || || |Genève| |Customer Success| || |2022-03-01| |None|
+|112| |Popinot| |Maurice| |Undefined| |CH| || |Genève| |Sales & Marketing| |Ingénieur R&D| |2001-10-04| |None|
+|113| |Restaud| |Michel| |Undefined| || || |Genève| |Customer Success| || |2013-03-02| |None|
+|114| |Schmucke| |Sara| |Undefined| || || |Zürich| |Sales & Marketing| || |2005-05-05| |None|
+|115| |Schurz| |Philipp| |Undefined| || || |Zürich| |Customer Success| || |2004-06-19| |None|
+|116| |Tullia| |Daniel| |Undefined| || || |Genève| |General Management| || |1999-03-02| |None|
+|117| |Zambinella| |Florence| |Undefined| || || |Genève| |IT Support| || |2007-06-25| |None|
+|118| |Debriche| |Edouard| |Undefined| || || |Lucca FR| |SAV| |Technicien| |2023-06-01| |None|
+|119| |Debrillo| |Eduardo| |Undefined| || || |Lucca España| |I+D| |Operario| |2023-06-01| |None|
