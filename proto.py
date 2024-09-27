@@ -8,15 +8,15 @@ import asyncio
 
 import csv
 
-#header request pour l'api
+# header request pour l'api
 headers = {
     'Accept': 'application/json',
     'Authorization': 'lucca application=caf8058b-b7ec-4df2-85e3-a673b5466e97',
 }
 
-#Initialiser les ids de tout les utilisateurs présents dans la base
-#Toutes les données récupérées seront enregistrées dans le dossier /data/ local
-#Enfin retourne une liste des ids dans la base de donnée
+# Initialiser les ids de tout les utilisateurs présents dans la base
+# Toutes les données récupérées seront enregistrées dans le dossier /data/ local
+# Enfin retourne une liste des ids dans la base de donnée
 def init():
     current_directory = os.getcwd()
     data = os.path.join(current_directory, r'data')
@@ -36,9 +36,9 @@ def init():
         ids.append(item.get("id",{}))
     return ids
 
-#Fonction asynchrone qui permet de récuperer les données de chaque connexion d'une manière indépendante
-#Permet aussi de prendre en compte le nombre maximum de requêtes par minutes imposé par la demo du API
-#Permet aussi de savoir quel lien donne une mauvaise réponse à partir des status responses dans la documentation du API
+# Fonction asynchrone qui permet de récuperer les données de chaque connexion d'une manière indépendante
+# Permet aussi de prendre en compte le nombre maximum de requêtes par minutes imposé par la demo du API
+# Permet aussi de savoir quel lien donne une mauvaise réponse à partir des status responses dans la documentation du API
 async def fetch_json(session, url, delay=60):
     try:
         async with session.get(url) as response:
@@ -46,15 +46,15 @@ async def fetch_json(session, url, delay=60):
                 return await response.json()
             elif response.status == 429:
                 print(f"Rate limited. Retrying after {delay} seconds for {url}.")
-                await asyncio.sleep(delay)  # Wait for the delay
-                return await fetch_json(session, url, delay)  # Retry request after delay
+                await asyncio.sleep(delay)  
+                return await fetch_json(session, url, delay)  
             else:
                 print(f"Error {response.status} for URL: {url}")
     except aiohttp.ClientError as e:
         print(f"Client error: {e} for URL {url}")
     return None
 
-#Permet d'envoyer des requêtes d'une manière asynchrone à partir de la liste de liens des utilisateurs
+# Permet d'envoyer des requêtes d'une manière asynchrone à partir de la liste de liens des utilisateurs
 async def fetch_all(urls):
     async with aiohttp.ClientSession(headers=headers) as session:
         tasks = []
