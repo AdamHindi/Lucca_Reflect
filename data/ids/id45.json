@@ -1,0 +1,304 @@
+{
+    "header": {
+        "generated": "2024-09-27T16:34:22.7502143",
+        "principal": "Reflect 6e51",
+        "processId": 1484
+    },
+    "data": {
+        "attributes": {},
+        "applicationData": {
+            "manager2Id": null,
+            "manager2": null,
+            "profile_figgo": {
+                "id": 5,
+                "name": "25 CP + 10 RTT",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/leaveprofiles/5"
+            },
+            "profile_cleemy_6": {
+                "id": 0,
+                "name": "Generic profile",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/expenseconfigprofileboes/0"
+            },
+            "fullTimeEquivalent": {
+                "value": "151.67",
+                "link": null
+            },
+            "theoreticalRemuneration": {
+                "value": "\u20ac52,415",
+                "link": {
+                    "url": "https://reflect2-sandbox.ilucca-demo.net/popleerem/remunerations#/45",
+                    "text": "Go to Pagga Compensation"
+                }
+            },
+            "lastAnnualReviewDate": {
+                "value": "2022-01-07T18:29:34.242657",
+                "link": null
+            },
+            "lastProfessionalReviewDate": {
+                "value": null,
+                "link": null
+            },
+            "lastFixedWorkingDaysReviewDate": {
+                "value": null,
+                "link": null
+            }
+        },
+        "extendedData": {},
+        "id": 45,
+        "lastName": "Flantier",
+        "firstName": "No\u00ebl",
+        "name": "No\u00ebl Flantier",
+        "displayName": "Flantier No\u00ebl",
+        "login": "nflantier",
+        "mail": "nflantier@example.org",
+        "dtContractStart": "2016-01-04T00:00:00",
+        "dtContractEnd": null,
+        "employeeNumber": "M0046",
+        "cspID": 10,
+        "csp": {
+            "id": 10,
+            "name": "Technicien",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/socioprofessionalgroups/10"
+        },
+        "nationalityId": "FR",
+        "nationality": {
+            "id": "FR",
+            "name": "France",
+            "currencyId": "EUR"
+        },
+        "siteId": null,
+        "site": null,
+        "seniorityDate": null,
+        "birthDate": "1983-02-23T00:00:00",
+        "unitSellPrice": null,
+        "insuranceNumber": "183023706302035",
+        "departmentID": 12,
+        "department": {
+            "id": 12,
+            "name": "Consulting",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/12"
+        },
+        "managerID": 15,
+        "manager": {
+            "id": 15,
+            "name": "Marie Bragoulet",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/users/15"
+        },
+        "currentDelegateeId": null,
+        "currentDelegatee": null,
+        "legalEntityID": 1,
+        "legalEntity": {
+            "id": 1,
+            "name": "Lucca FR",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/legalentities/1"
+        },
+        "cultureID": 1036,
+        "culture": {
+            "id": 1036,
+            "code": "fr-FR",
+            "name": "fran\u00e7ais (France)"
+        },
+        "rolePrincipalId": 4,
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "calendarId": 56,
+        "calendar": {
+            "id": 56,
+            "name": "France [490]",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/admin/calendars/api/calendars/56"
+        },
+        "userWorkCycles": [
+            {
+                "id": 39,
+                "name": null,
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/userworkcycles/39"
+            }
+        ],
+        "jobQualificationId": 8,
+        "jobQualification": {
+            "id": 8,
+            "name": "Developer Senior",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/jobqualifications/8"
+        },
+        "createdOn": "2017-01-23T11:46:27.067",
+        "createdAt": "2017-01-23T11:46:27.067",
+        "modifiedOn": "2023-06-28T13:55:15.1",
+        "modifiedAt": "2023-06-28T13:55:15.1",
+        "habilitedRoles": [
+            {
+                "id": 43,
+                "name": "Saisie des temps",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/43"
+            },
+            {
+                "id": 52,
+                "name": "Poplee Formation - Utilisateur",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/52"
+            }
+        ],
+        "userAxisValues_1": {
+            "id": 41,
+            "name": "Design",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/axissections/41"
+        },
+        "externalId": null,
+        "directLine": "01 22 49 21 00",
+        "professionalMobile": null,
+        "personalMobile": null,
+        "personalEmail": "persoFlantier@example.fr",
+        "address": "39 rue de Tolbiac",
+        "civilTitle": "Mr",
+        "personalAccount": "421000",
+        "gender": "Undefined",
+        "quote": null,
+        "frenchCarTaxHorsePower": 4,
+        "frenchMotocyclesTaxHorsePower": null,
+        "corporateCard": null,
+        "personalCard": null,
+        "rib": null,
+        "bic": "BOUSFRPPXXX",
+        "iban": "FR7640618802760004015133137",
+        "bankName": "BNP Paribas",
+        "allowsElectronicPayslip": false,
+        "picture": {
+            "id": "e2f9d6e6-fb4e-4214-8f61-a1509f2f9342",
+            "name": "file.png",
+            "extension": null,
+            "mimeType": null,
+            "href": "https://reflect2-sandbox.ilucca-demo.net/directory/api/employees/45/picture?a=0",
+            "url": null
+        },
+        "pictureId": "e2f9d6e6-fb4e-4214-8f61-a1509f2f9342",
+        "jobTitle": "Ing\u00e9nieur R&D",
+        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/users/45",
+        "authorizedOperations": [
+            {
+                "id": 35,
+                "name": null,
+                "label": "View the Lucca employee data",
+                "description": null,
+                "scopes": [
+                    {
+                        "description": "All departments",
+                        "value": 0,
+                        "id": 0,
+                        "code": "AllDepartments",
+                        "name": "All departments"
+                    },
+                    {
+                        "description": "All departments from level 1",
+                        "value": 1,
+                        "id": 1,
+                        "code": "DepartementLevel1",
+                        "name": "Departments from level 1"
+                    },
+                    {
+                        "description": "All departments from level 2",
+                        "value": 2,
+                        "id": 2,
+                        "code": "DepartementLevel2",
+                        "name": "Departments from level 2"
+                    },
+                    {
+                        "description": "All departments from level 3",
+                        "value": 3,
+                        "id": 3,
+                        "code": "DepartementLevel3",
+                        "name": "Departments from level 3"
+                    },
+                    {
+                        "description": "All departments from level 4",
+                        "value": 4,
+                        "id": 4,
+                        "code": "DepartementLevel4",
+                        "name": "Departments from level 4"
+                    },
+                    {
+                        "description": "My department and subs",
+                        "value": 10,
+                        "id": 10,
+                        "code": "DepartmentAndSubs",
+                        "name": "Departments and subs"
+                    },
+                    {
+                        "description": "My department only",
+                        "value": 11,
+                        "id": 11,
+                        "code": "DepartmentOnly",
+                        "name": "Department only"
+                    },
+                    {
+                        "description": "",
+                        "value": 20,
+                        "id": 20,
+                        "code": "SpecificDepartment",
+                        "name": "Specific department(s)"
+                    },
+                    {
+                        "description": "",
+                        "value": 21,
+                        "id": 21,
+                        "code": "SpecificDepartmentAndSubs",
+                        "name": "Specific department(s) and subs"
+                    },
+                    {
+                        "description": "My manager",
+                        "value": 13,
+                        "id": 13,
+                        "code": "Manager",
+                        "name": "Manager"
+                    },
+                    {
+                        "description": "Myself",
+                        "value": 14,
+                        "id": 14,
+                        "code": "User",
+                        "name": "User"
+                    },
+                    {
+                        "description": "My supervised employees",
+                        "value": 12,
+                        "id": 12,
+                        "code": "Collaborators",
+                        "name": "Supervised employees"
+                    },
+                    {
+                        "description": "Supervised employees (up to n-2)",
+                        "value": 23,
+                        "id": 23,
+                        "code": "CollaboratorsLevel2",
+                        "name": "Supervised employees (up to n-2)"
+                    },
+                    {
+                        "description": "Supervised employees (up to n-3)",
+                        "value": 24,
+                        "id": 24,
+                        "code": "CollaboratorsLevel3",
+                        "name": "Supervised employees (up to n-3)"
+                    },
+                    {
+                        "description": "People having the same manager",
+                        "value": 16,
+                        "id": 16,
+                        "code": "Peers",
+                        "name": "People having the same manager"
+                    },
+                    {
+                        "description": "",
+                        "value": 22,
+                        "id": 22,
+                        "code": "SpecificUser",
+                        "name": "Specific user(s)"
+                    }
+                ],
+                "isScopeSpecific": true,
+                "isBusinessItemSpecific": false,
+                "isAdmin": false
+            }
+        ]
+    },
+    "metadata": null
+}

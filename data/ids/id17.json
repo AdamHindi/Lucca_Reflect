@@ -1,0 +1,299 @@
+{
+    "header": {
+        "generated": "2024-09-27T16:34:22.8160784",
+        "principal": "Reflect 6e51",
+        "processId": 1484
+    },
+    "data": {
+        "attributes": {},
+        "applicationData": {
+            "manager2Id": null,
+            "manager2": null,
+            "profile_figgo": {
+                "id": 8,
+                "name": "25 AL - UK",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/leaveprofiles/8"
+            },
+            "profile_cleemy_6": {
+                "id": 2,
+                "name": "Lucca UK",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/expenseconfigprofileboes/2"
+            },
+            "fullTimeEquivalent": {
+                "value": "151.67",
+                "link": null
+            },
+            "theoreticalRemuneration": {
+                "value": "\u00a30",
+                "link": {
+                    "url": "https://reflect2-sandbox.ilucca-demo.net/popleerem/remunerations#/17",
+                    "text": "Go to Pagga Compensation"
+                }
+            },
+            "lastAnnualReviewDate": {
+                "value": "2023-09-04T15:49:02.9495101",
+                "link": null
+            },
+            "lastProfessionalReviewDate": {
+                "value": null,
+                "link": null
+            },
+            "lastFixedWorkingDaysReviewDate": {
+                "value": null,
+                "link": null
+            }
+        },
+        "extendedData": {},
+        "id": 17,
+        "lastName": "Brown",
+        "firstName": "Chloe",
+        "name": "Chloe Brown",
+        "displayName": "Brown Chloe",
+        "login": "cbrown",
+        "mail": "cbrown@example.org",
+        "dtContractStart": "2021-12-14T00:00:00",
+        "dtContractEnd": null,
+        "employeeNumber": "2001",
+        "cspID": 13,
+        "csp": {
+            "id": 13,
+            "name": "Higher professional occupation",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/socioprofessionalgroups/13"
+        },
+        "nationalityId": "US",
+        "nationality": {
+            "id": "US",
+            "name": "United States of America",
+            "currencyId": "USD"
+        },
+        "siteId": null,
+        "site": null,
+        "seniorityDate": null,
+        "birthDate": "1977-08-01T00:00:00",
+        "unitSellPrice": null,
+        "insuranceNumber": "PM225149R",
+        "departmentID": 9,
+        "department": {
+            "id": 9,
+            "name": "Help desk",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/departments/9"
+        },
+        "managerID": 10,
+        "manager": {
+            "id": 10,
+            "name": "Peter Benton",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/users/10"
+        },
+        "currentDelegateeId": null,
+        "currentDelegatee": null,
+        "legalEntityID": 2,
+        "legalEntity": {
+            "id": 2,
+            "name": "Lucca UK",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/legalentities/2"
+        },
+        "cultureID": 1033,
+        "culture": {
+            "id": 1033,
+            "code": "en-US",
+            "name": "English (United States)"
+        },
+        "rolePrincipalId": 4,
+        "rolePrincipal": {
+            "id": 4,
+            "name": "Utilisateur",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/4"
+        },
+        "calendarId": 13,
+        "calendar": {
+            "id": 13,
+            "name": "England and Wales",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/admin/calendars/api/calendars/13"
+        },
+        "userWorkCycles": [
+            {
+                "id": 12,
+                "name": null,
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/userworkcycles/12"
+            }
+        ],
+        "jobQualificationId": 8,
+        "jobQualification": {
+            "id": 8,
+            "name": "Developer Senior",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/jobqualifications/8"
+        },
+        "createdOn": "2016-05-04T18:11:19.827",
+        "createdAt": "2016-05-04T18:11:19.827",
+        "modifiedOn": "2023-09-04T15:49:04.77",
+        "modifiedAt": "2023-09-04T15:49:04.77",
+        "habilitedRoles": [
+            {
+                "id": 43,
+                "name": "Saisie des temps",
+                "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/roles/43"
+            }
+        ],
+        "userAxisValues_1": {
+            "id": 42,
+            "name": "Support",
+            "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/axissections/42"
+        },
+        "externalId": null,
+        "directLine": "+44 7 098 654 176",
+        "professionalMobile": null,
+        "personalMobile": null,
+        "personalEmail": "persoBrown@example.com",
+        "address": "Chemin des \u00e9cureuil",
+        "civilTitle": "Ms",
+        "personalAccount": "421000",
+        "gender": "Female",
+        "quote": null,
+        "frenchCarTaxHorsePower": null,
+        "frenchMotocyclesTaxHorsePower": null,
+        "corporateCard": null,
+        "personalCard": null,
+        "rib": null,
+        "bic": "BOUSFRPPXXX",
+        "iban": "FR7640618802760004015133137",
+        "bankName": "BNP Paribas",
+        "allowsElectronicPayslip": true,
+        "picture": {
+            "id": "291bdf7f-e0e8-4a63-a8c7-67fb35861524",
+            "name": "BROWN Chloe.jpg",
+            "extension": null,
+            "mimeType": null,
+            "href": "https://reflect2-sandbox.ilucca-demo.net/directory/api/employees/17/picture?a=0",
+            "url": null
+        },
+        "pictureId": "291bdf7f-e0e8-4a63-a8c7-67fb35861524",
+        "jobTitle": "Service Desk Technician",
+        "url": "https://reflect2-sandbox.ilucca-demo.net/api/v3/users/17",
+        "authorizedOperations": [
+            {
+                "id": 35,
+                "name": null,
+                "label": "View the Lucca employee data",
+                "description": null,
+                "scopes": [
+                    {
+                        "description": "All departments",
+                        "value": 0,
+                        "id": 0,
+                        "code": "AllDepartments",
+                        "name": "All departments"
+                    },
+                    {
+                        "description": "All departments from level 1",
+                        "value": 1,
+                        "id": 1,
+                        "code": "DepartementLevel1",
+                        "name": "Departments from level 1"
+                    },
+                    {
+                        "description": "All departments from level 2",
+                        "value": 2,
+                        "id": 2,
+                        "code": "DepartementLevel2",
+                        "name": "Departments from level 2"
+                    },
+                    {
+                        "description": "All departments from level 3",
+                        "value": 3,
+                        "id": 3,
+                        "code": "DepartementLevel3",
+                        "name": "Departments from level 3"
+                    },
+                    {
+                        "description": "All departments from level 4",
+                        "value": 4,
+                        "id": 4,
+                        "code": "DepartementLevel4",
+                        "name": "Departments from level 4"
+                    },
+                    {
+                        "description": "My department and subs",
+                        "value": 10,
+                        "id": 10,
+                        "code": "DepartmentAndSubs",
+                        "name": "Departments and subs"
+                    },
+                    {
+                        "description": "My department only",
+                        "value": 11,
+                        "id": 11,
+                        "code": "DepartmentOnly",
+                        "name": "Department only"
+                    },
+                    {
+                        "description": "",
+                        "value": 20,
+                        "id": 20,
+                        "code": "SpecificDepartment",
+                        "name": "Specific department(s)"
+                    },
+                    {
+                        "description": "",
+                        "value": 21,
+                        "id": 21,
+                        "code": "SpecificDepartmentAndSubs",
+                        "name": "Specific department(s) and subs"
+                    },
+                    {
+                        "description": "My manager",
+                        "value": 13,
+                        "id": 13,
+                        "code": "Manager",
+                        "name": "Manager"
+                    },
+                    {
+                        "description": "Myself",
+                        "value": 14,
+                        "id": 14,
+                        "code": "User",
+                        "name": "User"
+                    },
+                    {
+                        "description": "My supervised employees",
+                        "value": 12,
+                        "id": 12,
+                        "code": "Collaborators",
+                        "name": "Supervised employees"
+                    },
+                    {
+                        "description": "Supervised employees (up to n-2)",
+                        "value": 23,
+                        "id": 23,
+                        "code": "CollaboratorsLevel2",
+                        "name": "Supervised employees (up to n-2)"
+                    },
+                    {
+                        "description": "Supervised employees (up to n-3)",
+                        "value": 24,
+                        "id": 24,
+                        "code": "CollaboratorsLevel3",
+                        "name": "Supervised employees (up to n-3)"
+                    },
+                    {
+                        "description": "People having the same manager",
+                        "value": 16,
+                        "id": 16,
+                        "code": "Peers",
+                        "name": "People having the same manager"
+                    },
+                    {
+                        "description": "",
+                        "value": 22,
+                        "id": 22,
+                        "code": "SpecificUser",
+                        "name": "Specific user(s)"
+                    }
+                ],
+                "isScopeSpecific": true,
+                "isBusinessItemSpecific": false,
+                "isAdmin": false
+            }
+        ]
+    },
+    "metadata": null
+}
