@@ -132,7 +132,7 @@ def dep_info():
         wId= worker.get('id',{})
         name = worker.get('displayName',{})
         gender = worker.get('gender',{})
-        dep = worker.get('department',{}).get('name',{}).replace('/', "_")
+        dep = worker.get('department',{}).get('name',{}).replace('/', "_") #Enlever les / pour éviter des erreurs de fichier, à implémenter dans la generale ?
         legalEntity = worker.get('legalEntity',{}).get('name',{})
         job = worker.get('jobTitle','Non')
         manager = worker.get('manager',{}).get('name',{})
@@ -174,7 +174,7 @@ def getRequest(folder, along, info=['id']):
         worker = json_data.get('data',{})
 
 
-
+        # Permet la naviguation nested
         tempAlong = along.split('/')
 
         alongOne = worker.get(tempAlong[0],{})
